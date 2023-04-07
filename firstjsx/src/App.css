@@ -1,0 +1,10 @@
+
+.content {
+  list-style-position: none;
+  padding-left: 0;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 100vh; /* set a height for the content div */
+}
